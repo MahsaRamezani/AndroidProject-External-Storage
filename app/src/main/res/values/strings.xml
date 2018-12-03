@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileRead</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>Music ONE</item>
+        <item>Music TWO</item>
+    </string-array>
+
+</resources>
