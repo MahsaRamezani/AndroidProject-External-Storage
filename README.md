@@ -1,5 +1,5 @@
 # AndroidProject-External-Storage
-![picture](img/android1.PNG)
+![picture](MahsaRamezani/AndroidProject-External-Storage/master/android1.PNG)
 ![alt text](http://url/to/img.png)
 ![Screenshot](screenshot.png)
 
