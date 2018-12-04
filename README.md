@@ -1,5 +1,5 @@
 # AndroidProject-External-Storage
-![picture](android0.PNG)
-![picture](android2.PNG)
+![picture](img1.PNG)
+![picture](img2.PNG)
 
 
