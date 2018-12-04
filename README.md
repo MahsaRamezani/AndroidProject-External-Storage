@@ -5,3 +5,20 @@
 <div dir="rtl">
 متن کامنت با فرمت مارک‌داون
 </div>
+
+
+<type>(<scope>): <subject>
+<BLANK LINE>
+<body>
+<BLANK LINE>
+<footer>
+۱
+۲
+۳
+۴
+۵
+<type>(<scope>): <subject>
+<BLANK LINE>
+<body>
+<BLANK LINE>
+<footer>
